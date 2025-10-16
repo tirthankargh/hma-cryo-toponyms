@@ -6,6 +6,8 @@ Names of glaciers are recorded in the global inventories of glaciers (RGI/GLIMS)
 
 [Mohan Chand](https://np.linkedin.com/in/mohan-b-chand-93bb9930) (Nepal; Central Himalaya)
 
+[Perizat Imanalieva](https://www.caiag.kg/en/departments/department-3-monitoring-systems-and-data-management/structure-and-staff/300-imanalieva-perizat) (Tian Shan)
+
 [Aditya Mishra](https://orcid.org/0000-0002-4808-9337) (India; Uttrakhand, Himashal Pradesh, Kargil)
 
 [Jakob Steiner](https://fidelsteiner.github.io/) (Pakistan; KP, Baltistan. Nepal; Central Himalaya)
