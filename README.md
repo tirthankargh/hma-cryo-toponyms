@@ -14,7 +14,7 @@ Names of glaciers are recorded in the global inventories of glaciers (RGI/GLIMS)
 
 [Rajeev Rajak](https://rajeevcryo.github.io/) (India; Sikkim, Arunachal Pradesh)
 
-[Jakob Steiner](https://fidelsteiner.github.io/) (Pakistan; KP, Baltistan. Nepal; Central Himalaya)
+[Jakob Steiner](https://fidelsteiner.github.io/) (Pakistan; Hindukush. Nepal; Central Himalaya)
 
 
 
