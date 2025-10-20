@@ -30,5 +30,9 @@ The work is led by a collective of experts from and on the region and welcomes c
 Figure 1: Relative number of glaciers with names in the RGI7.0. 
 
 
+Jurt C, Brugger J, Dunbar K w., Milch K, Orlove B. Cultural values of glaciers. (2015) In: Huggel C, Carey M, Clague JJ, Kääb A, eds. The High-Mountain Cryosphere: Environmental Changes and Human Risks. Cambridge University Press; 2015:90-106. 
+Williamson, B. (2023). Historical geographies of place naming: Colonial practices and beyond. Geography Compass, 17(5), e12687. https://doi.org/10.1111/gec3.12687 
+
+
 ![alt text](https://github.com/fidelsteiner/hma-cryo-toponyms/blob/main/glacnames_HMA.jpg?raw=true)
 Figure 2: Glaciers with names (red) and those without (grey) in HMA. 
