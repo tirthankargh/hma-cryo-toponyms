@@ -8,7 +8,7 @@ Names of glaciers are recorded in the global inventories of glaciers (RGI/GLIMS)
 
 [Tirthankar Ghosh](https://sites.google.com/view/tirthankarghosh) (India; Ladakh)
 
-[Perizat Imanalieva](https://www.caiag.kg/en/departments/department-3-monitoring-systems-and-data-management/structure-and-staff/300-imanalieva-perizat) (Tian Shan)
+[Perizat Imanalieva](https://www.caiag.kg/en/departments/department-3-monitoring-systems-and-data-management/structure-and-staff/300-imanalieva-perizat) (Kyrgyzstan; Tian Shan)
 
 [Aditya Mishra](https://orcid.org/0000-0002-4808-9337) (India; Uttrakhand, Himashal Pradesh, Kargil)
 
