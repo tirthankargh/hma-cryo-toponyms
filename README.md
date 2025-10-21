@@ -4,7 +4,7 @@ Names of glaciers are recorded in the global inventories of glaciers (RGI/GLIMS)
 
 In this project we are attempting to assess existing local (or national) names of glaciers in the three RGI regions spanning HMA, based on existing regional databases and local and Indigenous knowledge. Local glacier names at times hold their perceived value by local communities and can be an indication of cultural value (Jurt et al., 2015). Naming mountains, including glaciers, can, however also be a sensitive topic, especially in (post-)colonial contexts of 'developing frontiers' (Williamson, 2023). The aim here is not just to fill gaps in the RGI but to assess the existing names (and where none may exist, or they may have been forgotten) and assess the imagined or experienced value of glaciers through the quality of these names, as well as potential disagreements on names by different stakeholders.
 
-The work is led by a collective of experts from and on the region and welcomes contributions from the community.
+The work is led by a collective of experts from and on the region and welcomes contributions from the community. Contributions can be made directly to the respective tables, keeping in mind that the glacier discussed needs to be clearly identified with the respective RGI ID, a source needs to be provided and the contrubtor should leave a name. All contributions will be acknwowledged and you are encouraged to get in touch if interested to contribute as a co-author.
 
 ## Regional leads
 
