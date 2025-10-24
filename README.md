@@ -24,6 +24,9 @@ The work is led by a collective of experts from and on the region and welcomes c
 
 [Jakob Steiner](https://fidelsteiner.github.io/) (Pakistan; Hindukush. Nepal; Central Himalaya)
 
+[Sarkor Suvankulov] (Uzbekistan; Tian Shan)
+
+[Gulomjon Umirzakov](https://orcid.org/0000-0002-5473-9842) (Uzbekistan; Tian Shan)
 
 
 ![alt text](https://github.com/fidelsteiner/hma-cryo-toponyms/blob/main/Table1.jpg?raw=true)
