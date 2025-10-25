@@ -14,6 +14,8 @@ The work is led by a collective of experts from and on the region and welcomes c
 
 [Perizat Imanalieva](https://www.caiag.kg/en/departments/department-3-monitoring-systems-and-data-management/structure-and-staff/300-imanalieva-perizat) (Kyrgyzstan; Tian Shan)
 
+[Khusrav Kabutov](https://www.researchgate.net/profile/H-Kabutov#:~:text=H.%20KABUTOV%20%7C%20Head%20of%20Department%20%7C,Glaciology%20and%20GIS%20technology%20%7C%20Research%20profile.) (Tajikistan; Pamir)
+
 [Aditya Mishra](https://orcid.org/0000-0002-4808-9337) (India; Uttrakhand, Himashal Pradesh, Kargil)
 
 [Rajeev Rajak](https://rajeevcryo.github.io/) (India; Sikkim, Arunachal Pradesh)
