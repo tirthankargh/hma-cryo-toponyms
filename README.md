@@ -30,6 +30,7 @@ The work is led by a collective of experts from and on the region and welcomes c
 
 [Gulomjon Umirzakov](https://orcid.org/0000-0002-5473-9842) (Uzbekistan; Tian Shan)
 
+[Zamira Usmanova](https://cargc.org/en/staff/laboratory-monitoring-dynamics-snow-and-ice-resources/) (Kazakhstan; Tian Shan)
 
 ![alt text](https://github.com/fidelsteiner/hma-cryo-toponyms/blob/main/Table1.jpg?raw=true)
 Figure 1: Relative number of glaciers with names in the RGI7.0. 
